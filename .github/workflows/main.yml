@@ -3,6 +3,8 @@ on:
   schedule: # execute every 12 hours
     - cron: "* */12 * * *"
   workflow_dispatch:
+  permissions:
+  contents: write   # 👈 allow pushing to the repo
 jobs:
   build:
     name: Jobs to update datas
