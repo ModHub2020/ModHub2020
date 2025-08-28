@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=ff8800&background=FF52BC00&width=610&lines=Coding+Is+Cool.;Keep+calm+down+and+carry+on+get+pizza." alt="Typing SVG"  />
+  <a href="https://github.com/ModHub2020"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=999&pause=1000&color=FF8800&center=true&vCenter=true&width=435&lines=Codign+is+cool.;Keep+calm+down+and+carry+on;And+get+pizza" alt="Typing SVG" /></a>
 </div>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=999&pause=1000&color=FF8800&center=true&vCenter=true&width=435&lines=Codign+is+cool.;Keep+calm+down+and+carry+on;And+get+pizza" alt="Typing SVG" /></a>
 
 
 <img alt="GitHub Snake" src="https://raw.githubusercontent.com/ModHub2020/ModHub2020/output/github-contribution-grid-snake-dark.svg" />
